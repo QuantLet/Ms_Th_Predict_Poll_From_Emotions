@@ -1,0 +1,13 @@
+Name of Quantlet:  Predict_Poll_From_Emotions_Stat_Desc
+
+Published in:      Ms_Th_Predict_Poll_From_Emotions
+
+Description:       Descriptive statistics of the Master Thesis : Predicting Poll trends with facial emotions. Open with Jupyter Notebook.
+
+Keywords:          Neural Network, Multi Layer Perceptron, French Presidential Election 2017, Microsoft Emotion API
+
+Author:            Victor Cluzel
+
+Submitted:         Fri, March 16 2018
+
+Output:  	   Graphs of descriptive statisitics for the Master Thesis quoted above
