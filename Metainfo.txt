@@ -10,4 +10,4 @@ Author:            Victor Cluzel
 
 Submitted:         Fri, March 16 2018
 
-Output:  	    Graphs of descriptive statisitics for the Master Thesis quoted above
+Output:  	   Graphs of descriptive statisitics for the Master Thesis quoted above
