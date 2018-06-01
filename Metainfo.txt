@@ -1,8 +1,8 @@
 Name of Quantlet:  Ms_Th_Predict_Poll_From_Emotions
 
-Published in:      Master Thesis : Predicting Poll trends with facial emotions : A neural network applied to emotions from politicians in the online press
+Published in:      'Master Thesis : Predicting Poll trends with facial emotions : A neural network applied to emotions from politicians in the online press'
 
-Description:       Plots the descriptive statistics of the Master Thesis : Predicting Poll trends with facial emotions. Open with Jupyter Notebook.
+Description:       'Plots the descriptive statistics of the Master Thesis : Predicting Poll trends with facial emotions. Open with Jupyter Notebook.'
 
 Keywords:          Neural Network, Multi Layer Perceptron, French Presidential Election 2017, Microsoft Emotion API
 
