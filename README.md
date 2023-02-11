@@ -2,6 +2,8 @@
 
 ## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **Ms_Th_Predict_Poll_From_Emotions** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
 
+### Descriptive statistics of the Master Thesis : Predicting Poll trends with facial emotions
+
 ```yaml
 
 Name of Quantlet:  Ms_Th_Predict_Poll_From_Emotions
